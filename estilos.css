@@ -1,0 +1,41 @@
+.music-body {
+  background: url(../img/fito.jpg);
+  background-repeat: repeat;
+  background-position: center center;
+}
+
+.navbar-inverse {
+  background-color: rgba(14, 212, 205, 0.90);
+  max-height: 4%;
+  border: none;
+}
+
+.fondo {
+  background-color: rgba(14, 212, 205, 0.80);
+  border: none;
+}
+
+.logo-img {
+  width: 100px;
+}
+
+.txtarea{
+	width: 80%;
+	max-height: 100px;
+}
+.user-coment{
+	font-size: 300%;
+	margin: 0 30%;
+}
+.list-group{
+padding-top: 5.5px;
+}
+
+@media (max-width: 768px) {
+    .header1 {
+        text-align: center;
+    }
+    .img2{
+      text-align: center;
+    }
+}
